@@ -1,0 +1,22 @@
+node_modules/
+.next/
+dist/
+build/
+.expo/
+*.log
+.env
+.env.*
+!.env.example
+# Android
+.gradle/
+local.properties
+*.keystore
+*.jks
+# iOS
+Pods/
+*.xcuserstate
+DerivedData/
+# Tizen / webOS
+*.wgt
+*.ipk
+.DS_Store

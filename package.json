@@ -1,0 +1,5 @@
+{
+  "name": "beeplayer",
+  "private": true,
+  "workspaces": ["apps/web", "apps/mobile", "apps/lg-webos", "apps/samsung-tizen", "packages/*"]
+}
